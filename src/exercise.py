@@ -1,16 +1,14 @@
 def main():
     #write your code below this line
-    chicken_quantity = 9000
-    bacon_quantity = 0.1
+    chicken_quantity = 3
+    bacon_quantity = 5.5
     print("Chicken:")
-    print(chicken_quantity)
+    print(str(9000))
     print("Bacon (kg):")
-    print(bacon_quantity)
+    print(str(0.1))
     print("Tractor:")
     print("Zero")
     print()
-    chicken_quantity = 3
-    bacon_quantity = 5.5
     print("And finally, a summary:")
     print(chicken_quantity)
     print(bacon_quantity)
