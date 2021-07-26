@@ -3,9 +3,9 @@ def main():
     chicken_quantity = 3
     bacon_quantity = 5.5
     print("Chicken:")
-    print(str(9000))
+    print(chicken_quantity)
     print("Bacon (kg):")
-    print(str(0.1))
+    print(bacon_quantity)
     print("Tractor:")
     print("Zero")
     print()
